@@ -1,6 +1,6 @@
-# hello_world
+# hello_world with some added features
 
-A new Flutter project.
+This is a very simple flutter project only showing two texts "Hello World Trave", a network image - directly downloaded from a website. There is also an elevated button - clicking on it shows an alert dialogue box. The appbar and texts are sligtly customes.
 
 ## Getting Started
 
