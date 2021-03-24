@@ -2,8 +2,9 @@
 
 This is a very simple flutter project only showing two texts "Hello World Travel", a network image - directly downloaded from a website. There is also an elevated button - clicking on it shows an alert dialog box. The appbar and texts are sligtly customed. Padding and SingleChildscrollView is introduced for beatification and landscape mode.
 
-![home](https://user-images.githubusercontent.com/17931197/112193272-f06ea000-8c31-11eb-94a3-cb7139da1ef0.png)
-![Alter Dialogue](https://user-images.githubusercontent.com/17931197/112193667-50fddd00-8c32-11eb-95da-4ed2cc413480.png)
+![alertDialog](https://user-images.githubusercontent.com/17931197/112281950-d0ca8c80-8cb0-11eb-90b9-9f5f11545ff5.png)
+![home](https://user-images.githubusercontent.com/17931197/112281955-d1fbb980-8cb0-11eb-836a-445cbe3ea488.png)
+![landscape](https://user-images.githubusercontent.com/17931197/112281958-d2945000-8cb0-11eb-85fc-d784793bdc34.png)
 
 ## Getting Started
 
